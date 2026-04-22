@@ -1,0 +1,29 @@
+# Core
+pandas>=2.0
+pyarrow
+lxml
+jupyter
+ipykernel
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+plotly
+kaleido
+
+# NLP & Embeddings
+nltk
+scikit-learn
+sentence-transformers
+
+# Network Analysis
+networkx
+
+# Clustering & Dimensionality Reduction
+umap-learn
+hdbscan
+
+# Interactive widgets
+ipywidgets

@@ -1,0 +1,29 @@
+# Data files (large)
+data/dblp.xml.gz
+data/dblp.xml
+data/dblp.dtd
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Embeddings cache
+*.npy
+embeddings_cache/
+.env  

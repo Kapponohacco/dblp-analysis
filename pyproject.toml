@@ -1,0 +1,31 @@
+[project]
+name = "rekrutacja-nokia"
+version = "0.1.0"
+description = "DBLP Dataset Analysis, Recommendation System & RAG Prototype"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    # Core
+    "pandas>=2.0",
+    "pyarrow",
+    "lxml",
+    # Jupyter
+    "jupyter",
+    "ipywidgets",
+    # Visualization
+    "matplotlib",
+    "wordcloud",
+    "plotly",
+    # NLP & Embeddings
+    "nltk",
+    "scikit-learn",
+    "sentence-transformers",
+    # Network Analysis
+    "networkx",
+    # Clustering & Dimensionality Reduction
+    "umap-learn",
+    "hdbscan",
+    "python-dotenv>=1.2.2",
+    "google-genai>=1.73.1",
+    "ipykernel>=7.2.0",
+]
