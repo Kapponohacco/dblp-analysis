@@ -2,22 +2,6 @@
 
 A comprehensive analysis pipeline for the [DBLP](https://dblp.org/) computer science bibliography dataset. This project demonstrates structured data analysis, NLP-driven topic discovery, content-based recommendation, and retrieval-augmented generation (RAG).
 
----
-
-## 📋 Table of Contents
-
----
-
-## Overview
-
-
-### Subset Strategy
-
-
----
-
-## Setup
-
 ### Prerequisites
 
 - Python 3.13+
@@ -49,9 +33,8 @@ A comprehensive analysis pipeline for the [DBLP](https://dblp.org/) computer sci
 
 4. **Run the Notebooks:**
    Start the Jupyter environment and execute the notebooks sequentially, starting with `01_data_ingestion.ipynb` to download and parse the dataset:
-   ```bash
-   uv run jupyter notebook
-   ```
+
+---
 
 ## Project Structure
 
