@@ -14,7 +14,7 @@ A comprehensive analysis pipeline for the [DBLP](https://dblp.org/) computer sci
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd Rekrutacja_nokia
+   cd dblp-analysis
    ```
 
 2. **Install dependencies:**
